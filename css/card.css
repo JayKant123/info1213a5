@@ -1,0 +1,19 @@
+.card{
+    width: 90%;
+    margin: 10px;
+}
+.card-img-top
+{
+    width: 100%;
+}
+.signupbox{
+    border-left: 2px solid rgb(88, 88, 88);
+    border-top: 2px solid rgb(88, 88, 88);
+}
+.jumbotron>h2 {
+    text-align: center;
+    background-color: rgb(53, 52, 52);
+    width: 100%;color:beige;
+    padding: 10px;
+    transform: translateY(-40px);
+}

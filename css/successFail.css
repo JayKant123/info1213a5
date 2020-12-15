@@ -1,0 +1,17 @@
+.success{
+    margin-top: 100px;
+    padding: 30px;
+    color: rgb(22, 150, 54);
+	text-align: center;
+}
+.fail{
+    margin-top: 100px;
+    padding: 30px;
+    color: rgba(233, 0, 0, 0.603);
+	text-align: center;
+}
+.jumbotron>.btn{
+    align-content: center;
+    margin-top: 50px;
+}
+
