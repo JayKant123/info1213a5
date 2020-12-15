@@ -1,7 +1,7 @@
 <?php 
 require 'vendor/autoload.php';
-	$db= new MongoDB\Client;
-	$database = $db->ResumeProject;
+	$db= new MongoDB\Client('mongodb+srv://admin:httJ3bxxjJY8NPGy@resumecluster.gellk.mongodb.net/resume?retryWrites=true&w=majority');
+	$database = $db->resume;
 	$collection = $database->blog;
 	$record = $collection->find();
 foreach($record as $rec)
