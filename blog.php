@@ -44,20 +44,20 @@
           </ul>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img src="images/carousel/img3.jpg" width="1100" height="500">
+              <img src="images/carousel/img3.JPG" width="1100" height="500">
               <div class="carousel-caption">
                 <h3>Build your resume</h3>
               </div>   
             </div>
             <div class="carousel-item">
-              <img src="images/carousel/img1.jpg" width="1100" height="500">
+              <img src="images/carousel/img1.JPG" width="1100" height="500">
               <div class="carousel-caption">
                 <h3>Find the best</h3>
                 
               </div>   
             </div>
             <div class="carousel-item">
-              <img src="images/carousel/img2.jpg" width="1100" height="500">
+              <img src="images/carousel/img2.JPG" width="1100" height="500">
               <div class="carousel-caption">
                 <h3>Resumes for all categories</h3>
               </div>   
@@ -88,7 +88,7 @@
     <div class="partition">
       <h2>About Me</h2>
       <div class="img">
-         <img src="images/carousel/img1.jpg">
+         <img src="images/carousel/img1.JPG">
     </div>
       <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
     </div>
